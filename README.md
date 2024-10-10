@@ -1,4 +1,5 @@
-# krakend-gcploggin
+# krakend-gcplogging (not official)
+
 A KrakenD log formatter compatible with gcplogging
 
 https://cloud.google.com/logging/docs/structured-logging
